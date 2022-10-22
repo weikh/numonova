@@ -303,11 +303,8 @@ let search = [
         title: "102.Kalsitlarga nimalar kiradi-marmar,toshko`mir,granir",
     },
     {
-        title: "",
-    },
-    {
         title: "103.Shum bola qishlog`i-Keles ( Tikanli mozor deb ham berilgan",
-    }
+    },
     {
         title: "104.O`zbekistonda nechat daryo bor-11 ta",
     },
@@ -849,6 +846,7 @@ let search = [
     },
     {
         title: "283.Registon maydonida bo`lgan yong`in haqidagi asar-Kitobga ixlos",
+    },
     {
         title: "284.Ona tilining metodologik asosi-borlqni bilish nazariyasi285.33 soniga 3 marta  3 ni qo`shilsa necha hosil bo`ladi-42",
     },
@@ -990,7 +988,7 @@ let search = [
     },
     {
         title: "331.Qora metal qayerlardan olinadi-?",
-    }
+    },
     {
         title: "332.Oy va yer orasidagi masofa-384 000 km",
     },
@@ -1128,6 +1126,7 @@ let search = [
     },
     {
         title: "377.To`g`ri burchakli paralellopipedning  nechta  uchi,qirrasi,yoqlari boruchi- 8 ta,qirrasi-8 ta,yoqlari- 6 ta378.Quyosh nurida daraxt bargidagi suv tomchisi havodagi qaysi gazga qo`shilib havoga ko`tariladi-karbonat angidrit",
+    },
     {
         title: "379.Dehonchilik qilsa bo`ladigan yervlar-3,2 mln gektar",
     },
@@ -1281,10 +1280,8 @@ let search = [
     {
         title: "430.Begona moddalar aralashgan  qattiq tosh-qotishma holida uchraydigan foydali qazilmalar-mis,alyumniy,temir,qo`rg`oshin,ruh",
     },
-    
-    },
     {
-        title: "1.Duradgorda 9 tayog`ochtaxtaboredi.Ubirnechtataxtaningharbirini 5 bo`lakkabo`libarraladi.Shundataxtalarsoni 33 tagayetdi.Duradgornechtataxtanibo`laklargabo`libarraladi? 6  ta taxtani bo`laklarga bo`lgan 6x5=30 ta 3 ta bo`linmagan taxta bilan 33 ta",
+       title: "1.Duradgorda 9 ta yog`och taxta bor edi.U bir nechta taxtaning har birini 5 bo`lakka bo`lib arraladi. Shunda taxtalar soni 33 taga yetdi.Duradgor nechta taxtani bo`laklarga bo`lib arraladi? 6  ta taxtani bo`laklarga bo`lgan 6x5=30 ta 3 ta bo`linmagan taxta bilan 33 ta",
     },
     {
         title: "2.Shaklda nechat to`g`ri to`rtburchak va kvadrat bor? Kvadrat- 5 ta To`g`ri to`rtburchak-4 ta",
@@ -1320,8 +1317,7 @@ let search = [
         title: "12.Qizil,sariq va oq gullar yonma-yon  ochilib turibdi.Asalari har bir gulga faqat bir marta qo`nishi mumkin.U hamma gullarni necha usulda aylanib chiqa oladi? Javob: 1) Q,S.O     2) Q,O,S      3) S,O,Q       4) S,Q,O     5) O,S,Q     6) O,Q,S",
     },
     {
-        title: "13.Ikki  xonali shunday  son topingki,uni 7 ga ko`paytirib, natijadan  1 ayirilganda  90 hosil bo`lsin. Javob: 13∙7-1=91-1=90
-    ",
+        title: "13.Ikki  xonali shunday  son topingki,uni 7 ga ko`paytirib, natijadan  1 ayirilganda  90 hosil bo`lsin. Javob: 13∙7-1=91-1=90",
     },
     {
         title: "14.3 ta mushuk 3 ta sichqonni tutishga  3 minut sarflasa,30 ta mushuk 30 sichqonni tutish uchun  qancha vaqt sarflaydi? Javob: 3 minut",
@@ -1388,6 +1384,7 @@ let search = [
     },
     {
         title: "35.3 ta sonning yig`indisi 1000 ga teng.Birinchi va ikkinchi  sonlar yig`indisi 650 ga teng.Uchinchi sonni toping", 
+    },
     {
         title: "36.Rasmda nechta uchburchak,nechta to`rtburchak va beshburchak bor? Uchburchak- 8 ta To`rtburchak- 8 ta Beshburchak-1 ta",
     },
@@ -1398,14 +1395,13 @@ let search = [
         title: "38.Ikkita ko`paytirilayotgan  sonlarning birini 30 marta oshirib,ikkinchisini 10 marta  kamaytirsak,ko`paytma qanchaga o`zgaradi? Javob:10∙20=200         10∙30=300            20:10=2",
     },
     {
-        title: "39.Eng kamida nechta halqani ochib-yopib,beshta  zanjir  bo`ladigan yaxlit bitta zanjir  hosil qila olasiz? Javob: 3 marta ochish va 3 marta yopish orqali
+        title: "39.Eng kamida nechta halqani ochib-yopib,beshta  zanjir  bo`ladigan yaxlit bitta zanjir  hosil qila olasiz? Javob: 3 marta ochish va 3 marta yopish orqali",
+    },
     {
         title: "40.Hikoya kitobning  216-sahifasidan boshlanib,274-sahifasida tugaydi.Hikoya kitobning necha sahifasini egallaydi? Javob: 29 sahifa,59 bet",
     },
     {
         title: "41.24 metr arqon uchta joyidan teng qirqilsa,har bir bo`lakning uzunligi necha metr  bo`ladi? Javob: 6 metrdan bo`ladi",
-    },
-    
     },
     {
         title: "43.Yig`indisi 18 bo`lgan  ikki sonning biri ikkinchisidan  ikki marta katta.Bu sonlarni toping.           Javob: 1 son 6 va 2 son 12 Yig`indisi  25 bo`lgan  ikki sonning biri ikkinchisidan to`rt marta kam.Bu sonlarni toping.                   Javob: 1-son 5  va 2-son  20",
@@ -1468,7 +1464,9 @@ let search = [
         title: "4  Maktabda badiiy asarni tahlil qilishdan asosiy maqsad nima? 100%Asarda ifodalangan hayotiy voqeani yoritish orqali о’quvchilarni badiiy adabiyot olamiga olib kirish, tasvirlanayotgan voqealarga nisbatan muallifning munosabati va niyatlarini payqab olishga imkoniyat yaratish Ta’limiy va tarbiyaviy maqsadlarga erishish Badiiy asarni idrok etishga tayyorlash O’quvchilarning bilimini oshirish",
     },
     {
-        title: "5  Sоаt mоdеli yordаmidа infdan tashqari о’qishning maqsadi nima? о’qilgan kitobni tо’g’ri baholay oladigan ongli kitobxonni tarbiyalash 100%kitob tanlay oladigan, muntazam kitob о’qiydigan, о’qilgan kitobni tо’g’ri baholay oladigan ongli kitobxonni tarbiyalash Adabiy jarayon haqida ma’lumot berish о’qish malakalarini takomillashtirish
+        title: "5  Sоаt mоdеli yordаmidа infdan tashqari о’qishning maqsadi nima? о’qilgan kitobni tо’g’ri baholay oladigan ongli kitobxonni tarbiyalash 100%kitob tanlay oladigan, muntazam kitob о’qiydigan, о’qilgan kitobni tо’g’ri baholay oladigan ongli kitobxonni tarbiyalash Adabiy jarayon haqida ma’lumot berish о’qish malakalarini takomillashtirish",
+    },
+    {
         title: "7  Sоаt mоdеli yordаmidа о’z turkumlarini о’rganish bilan bog’liq holda sо’zning tarkibi ustida ishlash qaysi sinflarga tо’g’ri keladi? 2-3-sinflarga 1-4-sinflarga 3-4-sinflarga 100% 1-2-sinflarga",
     },
     {
@@ -1488,8 +1486,8 @@ let search = [
     },
     {
         title: "14  Sоаt mоdеli yordаmidа haxsi noma’lum gapni toping. Biz ozod va obod vatanda yashayapmiz. Sоаt mоdеli yordаmidа harqda savdogarlarga alohida hurmat bilan qaraganlar. 100% Men xalqimga nafim tegmagan kunni umrimning hisobiga qo'sholmayman. Sоаt mоdеli yordаmidа he’rda aql bovar qilmas sehr bor.",
-    ,
-    
+    },
+    {
         title: "15  Birlashgan daryo bo’lur, tarqalgan irmoq bo’lur.Ega qaysi so’z turkumi bilan ifodalangan? Otlashgan sifatdosh 100% Fe’l Sоаt mоdеli yordаmidа ifat Sоаt mоdеli yordаmidа ifatdosh",
     },
     {
@@ -1505,7 +1503,8 @@ let search = [
         title: "19  Sоаt mоdеli yordаmidа inf tarbiyaviy soatlari qayerda o’tkaziladi? asktiv zaldi maktab hovlisida doimiy sinfda 100% lineykada",
     },
     {
-        title: "20  Sоаt mоdеli yordаmidа hodlik, mamnunlik mazmunini ifodalovchi his-hajon gap berilgan qatorni aniqlang. Barakali mehnatdan so’ng rohatlanib dam olish qanday zavqli! 100% Barakalla, barakalla, o’g’lim! Evoh, esiz umr, esiz qizim! Muncha yaxshi yigit ekansiz!"
+        title: "20  Sоаt mоdеli yordаmidа hodlik, mamnunlik mazmunini ifodalovchi his-hajon gap berilgan qatorni aniqlang. Barakali mehnatdan so’ng rohatlanib dam olish qanday zavqli! 100% Barakalla, barakalla, o’g’lim! Evoh, esiz umr, esiz qizim! Muncha yaxshi yigit ekansiz!",
+    },
     {
         title: "21  2-sinfda beriladigan topshiriqlardan birini belgilang. 100%Sоаt mоdеli yordаmidа odda va tarkibli masalalarni taqqoslash.Masalalarni ikki usul bilan yechish Jadvaldan tashqari ko’paytirish va bo’lish Aylana va boshqa geometrik shakllardan naqshlar chizish. Tezlik.Vaqt.Masofa",
     },
@@ -1562,7 +1561,7 @@ let search = [
         title: "2  1-sinf о’quvchilarining о’qish malakasi qaysi bosqichga tо’g’ri keladi? Bо’g’inlab о’qish bosqichiga. 100% Sоаt mоdеli yordаmidа idirg’a о’qish bosqichiga. Harflarni qо’shgan holda bо’g’inlab о’qish bosqichiga. Bо’g’inlab sidirg’a о’qish bosqichiga.",
     },
     {
-        title::"4  Ertakni о’rganish darslarining qurilishiga oid xususiyat qaysi javobda notо’gri izohlangan? Ertakni aytib berishga tayyorlanish (ichda о’qish) Allegoriyani ochish 100% Ma’lum vazifa bilan ertakni qayta о’qish (ijodiy va mustaqil ishlar) Ertakni о’quvchilar qay darajada idrok etganliklarini aniqlash maqsadida qisqacha suhbat о’tkazish",
+        title:"4  Ertakni о’rganish darslarining qurilishiga oid xususiyat qaysi javobda notо’gri izohlangan? Ertakni aytib berishga tayyorlanish (ichda о’qish) Allegoriyani ochish 100% Ma’lum vazifa bilan ertakni qayta о’qish (ijodiy va mustaqil ishlar) Ertakni о’quvchilar qay darajada idrok etganliklarini aniqlash maqsadida qisqacha suhbat о’tkazish",
     },
     {
         title: "5  Masal janridagi matnlarni о’rganishda asosiy bosqich nima? Allegoriyani ochish 100% Tayyorgarlik ishlari Tо’g’ri javob yuk Masal muallifi haqida о’qituvchi hikoyasi",
@@ -1624,7 +1623,7 @@ let search = [
     },
     {
         title: "28  Quyidagi ta’rifga mos oila tipini belgilang: “Bunday oilalar bola tarbiyalay olmaydilar, ularning o’zlari tarbiyaga ehtiyoj sezadilar. asotsial oilalar. 100% ota-onalar munosabatlari normal holda, biroq bola tarbiyasida birlik yetishmaydigan oilalar baxtli va tinch oilalar oila a’zolarining o’zaro tinch munosabatlariga asoslangan oilalar",
-    }
+    },
     {
         title: "29  Qandaydir sonni 289 ga bo`lganda qoldiq 287 ga teng bo`lsa, shu sonni 17 ga bo`lgandagi qoldiqni toping 5 15 100% 0 2",
     },
@@ -1666,8 +1665,6 @@ let search = [
     },
     {
         title: "4  Sоаt mоdеli yordаmidа TO’ darslarining bosqichlari qaysi javobda tо’g’ri kо’rsatilgan? Kirish suhbati: 1-bosqich asarni о’qib berish 2- bosqich yakunlovchi suhbat: 3-bosqich Agar rasmlarni tomosha qilish 1-bosqich asar muallifi bilan tanishish 2-bosqich, asar muharriri bilan tanishishi 3-bosqich 100%Tayyorgarlik 1-bosqich, boshlang’ich 2-bosqich, asosiy 3-bosqich O’qituvchi о’qib beradi 1-bosqich, magnitofondan eshittiradi 2-bosqich, sо’zlab beradi 3-bosqich",
-    },
-    
     },
     {
         title: "7  Darsga qо’yiladigan umumiy talablar qaysi javobda keltirilgan? Psixologik va gigiyenik talablar 100%Didaktik talablar, psixologik va gigiyenik talablar, ta’limiy va tarbiyaviy talablar Ta’limiy va tarbiyaviy talab Didaktik talablar",
@@ -1811,7 +1808,7 @@ let search = [
         title: "19  “Kulminatsiya” nima? Asardagi voqealarning yakuni voqealar rivojidagi eng keskin hayajonli jihati 100% Asarning epigraf qismi Asardagi voqealar rivojini boshlovchi ziddiyatlarning yuzaga kelishi",
     },
     {
-        title: "21  Quyidagi sonlardan qaysi biri 0, (2) ga tеng. $ \frac{2}{9} $ 100% $ \frac{{22}}{{90}} $ $ \frac{3}{{18}} $ $ \frac{1}{9} $",
+        title: "21  Quyidagi sonlardan qaysi biri 0, (2) ga tеng. $ /frac{2}{9} $ 100% $ /frac{{22}}{{90}} $ $ /frac{3}{{18}} $ $ /frac{1}{9} $",
     },
     {
         title: "22  Uchburchakning perimetri 12 sm ga teng; asoslarining o’rtalari kesmalar bilan tutashtirilgan.Sоаt mоdеli yordаmidа hunda hosil bo’lgan uchburchakning perimetrini toping 5 6 100% 4 7",
@@ -2027,7 +2024,6 @@ let search = [
     {
         title: "25  Intonatsiya haqidagi umumiy tushuncha to’g’ri berilgan javobni toping? nutqning ritmik va ohangdor tuzillishi 100% o’zgarib boruvchi ohangning past balandligi badiiy nutqdagi ta'sirchanlik sado, kuch va ovoz tebranishi",
     },
-    },
     {
         title: "26 Мurakkab masalalarga qaysi sinfdan o`tiladi? 3–sinfdan 100% 1–sinfdan 2–sinfdan 4–sinfdan",
     },
@@ -2039,8 +2035,6 @@ let search = [
     },
     {
         title: "29  Odobli inson fazilatlari. Hasadgo’y, qaysar, to’g’ri so’z, insofli Kamtar, dilozor, rostgo’y, o’zbilarmon Kattalarni hurmatlash, kamtar, rostgo’y, sabr-qanoatli 100% Ishbilarmon, qaysar, dangasa",
-    },
-    
     },
     {
         title: "31  Milliy qadriyаtlar deb nimaga aytiladi? 100%Biror xalqning milliy o`zligi, e’tiqodi, dunyoqarashi va turmush tarzini aks ettiradigan, xayotiy zaruratga aylangan qadriyаtlarga Turli milliy bayramlar, odatlar, xususiyаtlarga Millatning tili va muomala shakllari, mexmondo`stligina ifoda etadi. Bir millat e’tiqod qiluvchi dinga",
@@ -2166,7 +2160,7 @@ let search = [
         title: "36  O’quvchilarda kechadigan murakkab dinamik jarayon qanday nomlanadi? o’z-o’zini tarbiyalash 100% tarbiya jarayonining falsafasi tarbiya falsafasi tarbiya jarayoni",
     },
     {
-        title: "37  Hisoblang: $ ( - 1\frac{1}{2})^3 $ . -3 $ \frac{3}{8} $ 100% -1 $ \frac{1}{8} $ 1 $ \frac{1}{8} $ $ \frac{3}{4} $ ;",
+        title: "37  Hisoblang: $ ( - 1/frac{1}{2})^3 $ . -3 $ /frac{3}{8} $ 100% -1 $ /frac{1}{8} $ 1 $ /frac{1}{8} $ $ /frac{3}{4} $ ;",
     },
     {
         title: "38  O’qitishni tashkil qilishning qaysi shakli asosiy hisoblanadi? Dars Individual mashg’ulot 100% Sоаt mоdеli yordаmidа infdan tashqari mashg’ulotlar Gеоmеtrik tushunchаlаr o’rgаtish mеtоdikаsi : uruhli mashg’ulot",
